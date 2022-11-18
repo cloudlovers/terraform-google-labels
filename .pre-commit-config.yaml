@@ -4,7 +4,7 @@ repos:
     rev: v1.62.3
     hooks:
       - id: terraform_fmt
-      - id: terraform_validatee
+      - id: terraform_validate
 
   - repo: git://github.com/pre-commit/pre-commit-hooks
     rev: v3.4.0 # Use the ref you want to point at

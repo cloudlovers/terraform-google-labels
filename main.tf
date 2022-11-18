@@ -1,7 +1,7 @@
 
 locals {
   label_order_defaults = {
-    label_order = [ "name", "environment"]
+    label_order = ["name", "environment"]
   }
 
   id_context = {
